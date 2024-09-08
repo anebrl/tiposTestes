@@ -36,8 +36,8 @@ let tags = "";
                     <a href="#" target="_blank">${dado.titulo}
                     </a>
                 </h2>
-                <p class="descricao-meta">${dado.descricao}
-                </p>
+                <p class="descricao-meta">${dado.descricao}</p>
+                <p class="ferramentas-meta">${dado.ferramentas}</p>
             </div>
         `;
         }
